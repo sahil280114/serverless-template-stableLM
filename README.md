@@ -1,5 +1,5 @@
-# My Potassium App
-This is a Potassium HTTP server, created with `banana init` CLI
+# StableLM template for Banana
+This is a Potassium HTTP server, created with `banana init` CLI which runs the stableLM language model on banana serverless gpus.
 
 ### Testing
 Start a local dev server with `banana dev`
